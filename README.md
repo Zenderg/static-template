@@ -9,5 +9,5 @@ Here is an example of the builder in order to give the ready code to the backend
 ## Compiles and hot-reloads for development
 ```npm run dev```
 
-### Compiles for production
+## Compiles for production
 ```npm run prod```
